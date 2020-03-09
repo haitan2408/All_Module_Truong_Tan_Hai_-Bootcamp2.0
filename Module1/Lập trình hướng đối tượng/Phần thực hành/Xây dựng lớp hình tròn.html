@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function myCircle (radius) {
+        //thuộc tính
+        this.radius=radius;
+
+        //xây dựng phương thức
+        this.getRadius=function () {
+            return radius;
+        }
+        this.getArea=function () {
+            return Math.PI*radius*radius;
+        }
+    }
+    var center="<br/>";
+    var hinhTron=new myCircle(2);
+    var hinhTron=new myCircle(3);
+    document.write("radius= "+hinhTron.getRadius()+center);
+    document.write("Area= "+hinhTron.getArea());
+</script>
+</body>
+</html>

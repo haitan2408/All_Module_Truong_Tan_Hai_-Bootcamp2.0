@@ -1,0 +1,20 @@
+
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÂÀú’8£·˜ğŒ.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8¤½ÏïŒ.
+9squid:S1643&"Use a StringBuilder instead.(ÿœşW8£·˜ğŒ.
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(À»Ø‡úÿÿÿÿ8£·˜ğŒ.
+€squid:S41651"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ı½œ¦8£·˜ğŒ.
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(™¤ÿè8£·˜ğŒ.
+nsquid:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Á¯ñÓ8éœ“ğŒ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿š›¸
+\squid:S2130/"9Use "Integer.parseInt" for this string-to-int conversion.(“÷€øÿÿÿÿ8£·˜ğŒ.
+U
+squid:S1066"9Replace this use of System.out or System.err by a logger.(°•Ş8³°œğŒ.
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‡¤êÜ8£·˜ğŒ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ÃÃÔüÿÿÿÿ8´¥ÂïŒ.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß±ú€

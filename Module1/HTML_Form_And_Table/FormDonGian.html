@@ -2,14 +2,60 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Form</title>
+    <title>Title</title>
+    <style>
+        .label1 {
+            color:blue;
+        }
+        label{
+            color: chocolate;
+        }
+    </style>
 </head>
 <body>
-<center>
-<form style="width: 60%">
-        <div style="background: coral"><h2>SỞ THÍCH CỦA BẠN</h2></div>
-    <span>Họ và tên</span> <input type="text">
-</form>
-</center>
+<div style="width: 30%; background: #90a4ae">
+    <h3 style="text-align: center; color: white; background: chocolate">Sở Thích Của Bạn</h3>
+    <form style="margin-top: -10px">
+        <div style="background: #90a4ae; text-align: left; margin-left: 30px">
+            <label class="label1">Họ và Tên </label>
+            <input type="text" style="padding-left: 50px; margin-left: 20px">
+        </div>
+        <div style="background: #90a4ae; text-align: left; margin-left: 65px; margin-top: 10px">
+            <label class="label1">Email </label>
+            <input type="text" style="margin-left: 20px">
+        </div>
+        <div style="margin-left: 40px; margin-top: 10px">
+            <label class="label1">Sở thích</label>
+            <input type="checkbox" style="padding-left: 20px">
+            <label> Thể Thao</label>
+            &nbsp;
+            <input type="checkbox">
+            <label> Âm nhạc</label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="checkbox">
+            <label> Đọc sách</label>
+            &nbsp;
+        </div>
+        <div style="margin-left: 112px">
+            <input type="checkbox">
+            <label> Lướt web</label>
+            &nbsp;
+            <input type="checkbox">
+            <label> Chơi game</label>
+            &nbsp;&nbsp;
+            <input type="checkbox">
+            <label> Điện ảnh</label>
+        </div>
+        <div style="margin-left: 112px">
+            <input type="checkbox">
+            <label> Du lịch</label>
+        </div>
+        <div style="margin-left: 112px; padding-bottom: 10px">
+            <input type="button" value="Gửi thông tin" style="background: gray">
+            <input type="button" value="Nhập lại" style="background: gray">
+        </div>
+    </form>
+
+</div>
 </body>
 </html>

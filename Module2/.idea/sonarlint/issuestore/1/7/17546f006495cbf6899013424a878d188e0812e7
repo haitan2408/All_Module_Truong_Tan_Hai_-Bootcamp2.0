@@ -1,0 +1,44 @@
+
+osquid:S2975T"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(šòÈÙþÿÿÿÿ
+vsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(þ™«‰ÿÿÿÿÿ
+csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ô×”Ÿ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Â’•Úÿÿÿÿÿ
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(çò×øÿÿÿÿÿ
+U
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(áëÐøÿÿÿÿ
+P
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(„…Ö
+U
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Ú·Å¼ûÿÿÿÿ
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(„…Ö
+wsquid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "newNode".(„ŠËŸ
+Msquid:S2696"6Make the enclosing method "static" or remove this set.(öæ›Ä
+Msquid:S2696"6Make the enclosing method "static" or remove this set.(öæ›Ä
+Msquid:S2696&"6Make the enclosing method "static" or remove this set.(öæ›Ä
+Msquid:S26961"6Make the enclosing method "static" or remove this set.(öæ›Ä
+Rsquid:S2696="6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ
+Rsquid:S2696D"6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ
+Rsquid:S2696J"6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ
+7squid:S2326"E is not used in the class.(ä…‹ùÿÿÿÿ
+Lsquid:S2209"5Change this instance-reference to a static reference.(öæ›Ä
+Lsquid:S2209"5Change this instance-reference to a static reference.(öæ›Ä
+Lsquid:S2209&"5Change this instance-reference to a static reference.(öæ›Ä
+Lsquid:S22091"5Change this instance-reference to a static reference.(öæ›Ä
+Ksquid:S22098"5Change this instance-reference to a static reference.(ÈŽ‚d
+Qsquid:S2209="5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ
+Lsquid:S2209@"5Change this instance-reference to a static reference.(·î‰Ñ
+Qsquid:S2209D"5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ
+Qsquid:S2209J"5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ
+Lsquid:S2209P"5Change this instance-reference to a static reference.(ðåÍ÷
+Lsquid:S2209U"5Change this instance-reference to a static reference.(¥Ÿêü
+Qsquid:S2209W"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ
+Qsquid:S2209k"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ
+Qsquid:S2209w"5Change this instance-reference to a static reference.(€É„…ùÿÿÿÿ
+Rsquid:S2209"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ
+Msquid:S2209"5Change this instance-reference to a static reference.(„ŠËŸ
+Gsquid:S00108ˆ")Either remove or fill this block of code.(ÈßÁéøÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªØàÕýÿÿÿÿ
+dsquid:S1182T"HUse super.clone() to create and seed the cloned instance to be returned.(šòÈÙþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ– ´þÿÿÿÿ

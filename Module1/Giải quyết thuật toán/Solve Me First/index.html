@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<label>Number 1: </label>
+<input type="text" id="num1">
+<br>
+<label>Number 2: </label>
+<input type="text" id="num2">
+<button onclick="sum()">Sum</button>
+<script>
+    function sum() {
+        let num1 = parseFloat(document.getElementById("num1").value);
+        let num2 = parseFloat(document.getElementById("num2").value);
+        alert("Sum is: " + (num1 + num2));
+    }
+</script>
+</body>
+</html>

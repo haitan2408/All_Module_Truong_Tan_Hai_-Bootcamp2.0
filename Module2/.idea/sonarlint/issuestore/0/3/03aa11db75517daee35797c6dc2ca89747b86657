@@ -1,0 +1,13 @@
+
+Rsquid:S1066"/Merge this if statement with the enclosing one.(Φό¨Ώώÿÿÿÿ8ύ€.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ώ›Έ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Δ³8κ®ο.
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹΄­Μώÿÿÿÿ
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ωÿÿÿÿ8δυγ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(έοθζ8Ψ”ρ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Θ°³εÿÿÿÿÿ8“ς.
+ysquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(·ΰ—ύÿÿÿÿ8©ξ.
+tsquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(±Ω®8ύ€.

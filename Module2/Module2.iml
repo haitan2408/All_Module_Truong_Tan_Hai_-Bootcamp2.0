@@ -21,5 +21,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="java-collection-utils" level="project" />
   </component>
 </module>

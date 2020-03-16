@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #game_div {
+            width: 400px;
+            margin: auto;
+            margin-top: 50px;
+        }
+    </style>
+    <script src="phaser.min.js"></script>
+</head>
+
+<body>
+    <div id="game_div"> </div>
+    <script>
+
+        var game = new Phaser.Game(400, 400, Phaser.AUTO, 'game_div');
+        var game_state = {};
+        game_state.main = function () { };
+        game_state.main.prototype = {
+
+            preload: function () {
+            },
+
+            create: function () {
+                game.paddleHeight = 30;
+                game.paddleWidth = 100;
+                var Paddle = function () {
+                    this.graphics = game.add.graphics(0, 0);
+                    this.graphics.beginFill(0xFF3300);
+                    this.graphics.drawRect(0, 0, game.paddleWidth, game.paddleHeight)
+                    this.paddle = game.add.sprite(game.width / 2, game.height - (game.paddleHeight / 2 + 5), this.graphics.generateTexture())
+                    this.paddle.anchor.setTo(0.5, 0.5)
+                    this.graphics.destroy();
+                    return this.paddle;
+                }
+
+                var Ball = function () {
+                    this.graphics = game.add.graphics(0, 0);
+                    this.graphics.beginFill(0xFF3300);
+                    this.graphics.drawCircle(0, 0, 40)
+                    this.ball = game.add.sprite(game.width / 4 + game.width / 2 * Math.random(), game.height * .2, this.graphics.generateTexture());
+
+                    this.ball.anchor.setTo(0.5, 0.5)
+                    this.ball.velocities = {
+                        x: 1 - Math.random() * 2,
+                        y: 0
+                    }
+                    this.graphics.destroy();
+                    return this.ball;
+                }
+                game.end = function () {
+                    game.over = true;
+                    game.paddle.destroy();
+                    game.ball.destroy();
+                    game.scoreSprite.fill = 'red';
+                    setTimeout(function () { game.state.start('main'); }, 3000);
+                }
+
+                game.paddle = new Paddle();
+                game.ball = new Ball();
+                game.score = 0;
+                game.scoreSprite = game.add.text(5, 0, game.score.toString())
+                game.scoreSprite.fill = 'white'
+                game.speed = 0.1;
+                game.difficulty = 0.5;
+                game.bounce = -80;
+                game.over = false;
+            },
+
+            update: function () {
+                if (!game.over) {
+                
+                    game.paddle.x = game.input.x
+
+                
+                    game.ball.x += game.ball.velocities.x * game.speed;
+                    game.ball.y += game.ball.velocities.y * game.speed;
+                    game.ball.velocities.y++;
+                 
+                    if (game.height - game.ball.y < game.paddleHeight) {
+                        if (Math.abs(game.ball.x - game.paddle.x) < game.paddleWidth / 2 + game.ball.width / 2) {
+                            console.log("bounce")
+                            game.ball.velocities.y = game.bounce;
+                            game.ball.velocities.x += (game.ball.x - game.paddle.x) * game.difficulty
+                            game.score++;
+                            game.scoreSprite.setText(game.score.toString())
+                        } else {
+                            console.log("missed the paddle")
+                            game.end()
+                        }
+
+                        if (game.ball.x < 0 || game.ball.x > game.width) {
+                            console.log("hit the wall")
+                            game.end()
+                        }
+                    }
+
+
+
+                }
+            },
+        };
+
+        // Add and start the 'main' state to start the game
+        game.state.add('main', game_state.main);
+        game.state.start('main');
+    </script>
+</body>
+
+</html>

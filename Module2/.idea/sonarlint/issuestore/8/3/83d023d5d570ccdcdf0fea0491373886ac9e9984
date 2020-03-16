@@ -1,0 +1,22 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÈû
+lsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‡àôª8«ŒŸİ.
+Bsquid:S3457"%String contains no format specifiers.(Ì©ìC8Öû˜İ.
+U
+squid:S106("9Replace this use of System.out or System.err by a logger.(¡¯Š8Öû˜İ.
+Hsquid:S3457&"%String contains no format specifiers.(ö¤´íüÿÿÿÿ8Öû˜İ.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ô¹Æäûÿÿÿÿ8Öû˜İ.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì©ìC8Öû˜İ.
+^squid:S2259"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ8«ŒŸİ.
+Hsquid:S3457"%String contains no format specifiers.(Ûâ²¨øÿÿÿÿ8Öû˜İ.
+Msquid:S2093
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8«ŒŸİ.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ö¤´íüÿÿÿÿ8Öû˜İ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûâ²¨øÿÿÿÿ8Öû˜İ.
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Õˆø¼ûÿÿÿÿ8Öû˜İ.
+^squid:S2259"@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù8«ŒŸİ.
+Bsquid:S3457("%String contains no format specifiers.(¡¯Š8Öû˜İ.

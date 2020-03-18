@@ -1,0 +1,6 @@
+
+bsquid:HiddenFieldCheck";Rename "meanings" which hides the field declared at line 5.(ØÛ‰ıüÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"PMake word a static final constant or non-public and provide accessors if needed.(¨œÿ"
+‡"squid:ClassVariableVisibilityCheck"TMake meanings a static final constant or non-public and provide accessors if needed.(ÌËïÁøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÂì­

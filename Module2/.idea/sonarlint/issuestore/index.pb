@@ -139,3 +139,25 @@ e
 5test/SS09/AutomationTest_TDD/NextDay/NextDayTest.java,7\f\7f57c1ad1bc866717e2770f8bd8cefebd793eae4
 g
 7test/SS09/AutomationTest_TDD/Triangle/TriangleTest.java,8\0\80b93a2bdbb1dc07b7fc031bfefc26cc7d280f9b
+f
+6src/SS23/Behavioral_Design_Pattern/UserController.java,9\d\9da7dbb4d6e9bf2fb5e161417a9b7044c9aa7438
+\
+,src/SS23/Behavioral_Design_Pattern/User.java,d\2\d2bf6bdfc33485ffa5c01588495b7f445d7601b4
+d
+4src/SS23/Behavioral_Design_Pattern/MySQLStorage.java,7\7\773e1d07f85f1c8ffa4f2670d4123c2e35a0a97c
+b
+2src/SS23/Behavioral_Design_Pattern/XMLStorage.java,c\d\cda1353db7d3a074de81114d93fa868a298b462d
+w
+Gtest/SS09/AutomationTest_TDD/SimpleCalculator/SimpleCalculatorTest.java,3\7\37e20950b2e373970531d1999d5e6dd1bc41e4ea
+c
+3src/SS23/Behavioral_Design_Pattern/UserStorage.java,c\2\c2c8ca882c8f0e9f633aa8cb71604b5d23cc09b0
+f
+6test/SS09/AutomationTest_TDD/Demo1/CalculatorTest.java,1\9\199dcf54f321f9b0454a08b96af2f356abab5de0
+g
+7src/SS24/CaseStudy/.settings/org.eclipse.jdt.core.prefs,f\c\fc9bc29528d36a60f4b884c327b64802deeba879
+P
+ src/SS24/CaseStudy/src/Node.java,a\3\a3e7cd2b300f83550da5ff43326bf753f9edfbfd
+V
+&src/SS24/CaseStudy/src/Dictionary.java,5\f\5fe69a7ea30310ea99d1c2b64d8e452ea69f2e33
+V
+&src/SS24/CaseStudy/src/SimpleDict.java,c\6\c62cf8881cf8c3ef08aa464c10abaf0395edff6f

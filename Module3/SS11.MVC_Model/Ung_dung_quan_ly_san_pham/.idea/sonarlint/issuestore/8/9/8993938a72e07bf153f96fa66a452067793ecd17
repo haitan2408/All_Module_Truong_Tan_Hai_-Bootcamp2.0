@@ -1,0 +1,29 @@
+
+esquid:S11921"NDefine a constant instead of duplicating this literal "error-404.jsp" 5 times.(µ²Ä²
+esquid:S11923"IDefine a constant instead of duplicating this literal "customer" 4 times.(Ñô×Åùÿÿÿÿ
+Isquid:S1199"-Extract this nested code block into a method.(Ÿù²«ùÿÿÿÿ
+Dsquid:S1199"-Extract this nested code block into a method.(ý£ƒ˜
+Isquid:S1199#"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ
+Jsquid:S1199„"-Extract this nested code block into a method.(Ÿù²«ùÿÿÿÿ
+Esquid:S1199ˆ"-Extract this nested code block into a method.(ý£ƒ˜
+Jsquid:S1199Œ"-Extract this nested code block into a method.(Ã³ÖÍùÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÌðÞŸüÿÿÿÿ
+Fsquid:S1481B"/Remove this unused "dispatcher" local variable.(º³Í
+Esquid:S2140o")Use "java.util.Random.nextInt()" instead.(×÷é¹ûÿÿÿÿ
+Usquid:S1854D">Remove this useless assignment to local variable "dispatcher".(µ²Ä²
+[squid:S2147:"DCombine this catch with the one at line 56, which has the same body.(ï­£Ä
+\squid:S2147f"ECombine this catch with the one at line 100, which has the same body.(ï­£Ä
+\squid:S2147y"ECombine this catch with the one at line 119, which has the same body.(ï­£Ä
+]squid:S2147©"ECombine this catch with the one at line 167, which has the same body.(ï­£Ä
+]squid:S2147¼"ECombine this catch with the one at line 186, which has the same body.(ï­£Ä
+]squid:S2147Ç"ECombine this catch with the one at line 197, which has the same body.(ï­£Ä
+]squid:S2147Ö"ECombine this catch with the one at line 212, which has the same body.(ï­£Ä
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+?squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148K"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148g"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ª"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148½"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

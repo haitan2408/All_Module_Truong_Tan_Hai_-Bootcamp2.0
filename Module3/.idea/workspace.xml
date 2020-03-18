@@ -2,16 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bfb91d5-d756-4a58-8987-66ca909c7aba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/0/7/075eb9388bf5bcfce0f2034b095a932e2d074dcf" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/0/7/075eb9388bf5bcfce0f2034b095a932e2d074dcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/2/9/293a9980ff08d13928eefe1e1bd954d163e53cf3" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/2/9/293a9980ff08d13928eefe1e1bd954d163e53cf3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/4/c/4c8c0b742067b6843d986d7bb02b441b81d0dadf" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/4/c/4c8c0b742067b6843d986d7bb02b441b81d0dadf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/5/b/5b36eca579e7fe4b5c1dd2d17b57711b0932ee69" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/5/b/5b36eca579e7fe4b5c1dd2d17b57711b0932ee69" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/7/9/79ccb55c2d49f4dbd2e7f759b955bf2069683faa" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/7/9/79ccb55c2d49f4dbd2e7f759b955bf2069683faa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/9/d/9d7adbcb7770fb85ded8cb703d647ee96c0481de" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/9/d/9d7adbcb7770fb85ded8cb703d647ee96c0481de" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/c/8/c80997dbd9835188847925cf0ba464ce9c9c02bc" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/c/8/c80997dbd9835188847925cf0ba464ce9c9c02bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS1.Cơ_so_du_lieu_quan_he/Thuc_thi_cac_cau_lenh_SQL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS1.Cơ_so_du_lieu_quan_he/mysqlsampledatabase.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/src/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/src/ListCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Hien_thi_danh_sach_khach_hang/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Ung_dung_Calculator/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Ung_dung_Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Ung_dung_Calculator/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS10.JSP_va_JSTL/Ung_dung_Calculator/src/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/.idea/libraries/WEB_INF.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/src/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/src/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/src/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/src/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/WEB-INF/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/WEB-INF/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11.MVC_Model/Ung_dung_quan_ly_san_pham/web/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/src/DAO/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/src/DAO/impl/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/src/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12.JDBC_CRUD/Cap_nhat_ung_dung_quan_ly_User/web/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/src/DAO/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/src/DAO/impl/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/src/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_JDBC_Transaction/web/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/artifacts/MySql_Stored_Procedures_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/MySql_Stored_Procedures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/src/DAO/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/src/DAO/impl/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/src/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13.JDBC_Querying_Transaction/MySql_Stored_Procedures/web/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/src/main/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/src/main/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/src/test/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14.Dependency_Management_Packaging/Viet_thu_vien_Java_bang_Gradle/test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/DAO/NoteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/DAO/NoteTypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/controllers/NoteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/controllers/NoteTypeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/model/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/model/NoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/NoteTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/impl/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/impl/NoteTypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/impl/ReadExcelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/src/service/impl/WriteExcelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libBootrap.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/curvesapi-1.06.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/activation-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/commons-codec-1.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/commons-collections4-4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/commons-compress-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/jaxb-core-2.3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/jaxb-impl-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/libPOIChild/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-examples-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-excelant-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-ooxml-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-ooxml-schemas-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/poi-scratchpad-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/libPOI/xmlbeans-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/move.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note/viewNote.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note_type/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note_type/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note_type/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note_type/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/views/note_type/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS15.CaseStudy/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS2.Thiet_ke_va_tao_CSDL/Phan_tich_va_thiet_ke_CSDL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS2.Thiet_ke_va_tao_CSDL/Xac_dinh_khoa_chinh_va_khoa_ngoai_cua_bang.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS3.Thao_tac_voi_CSDL/quan_li_thu_vien.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS4.Cac_ham_thong_dung_trong_SQL/Database_luyen_tap_cac_ham_thong_dung_trongSQL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS4.Cac_ham_thong_dung_trong_SQL/Luyen_tap_cac_ham_thong_dung_trong_sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS5.SQL_View_Index_And_Stored_Procedure/View_Index_Store_Procedure.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS5.SQL_View_Index_And_Stored_Procedure/products.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Dinh_dang_van_ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_CSS_vao_trang_HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_Css_va_trang_HTML.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Tao_Trang_Truyen/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Tao_Trang_Truyen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_Xem_Phim_Hoat_Hinh/Web_Xem_Phim_Hoat_Hinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8.Bootstrap_co_ban/gallery/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9.Tong_quan_ung_dung_Web/Product_Discount_Calculator/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9.Tong_quan_ung_dung_Web/Product_Discount_Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9.Tong_quan_ung_dung_Web/Product_Discount_Calculator/src/DiscountServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/e/4/e41eee1fe8b3f5a23c9bef8124ba89924010eaba" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/e/4/e41eee1fe8b3f5a23c9bef8124ba89924010eaba" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +180,114 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_Xem_Phim_Hoat_Hinh/Web_Xem_Phim_Hoat_Hinh.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="128" column="32" selection-start-line="128" selection-start-column="32" selection-end-line="128" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SS8.Bootstrap_co_ban/gallery/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/inner.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5220">
+              <caret line="261" column="16" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_Css_va_trang_HTML.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_Css_va_trang_HTML.css" />
+        <option value="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_CSS_vao_trang_HTML.html" />
+        <option value="$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Dinh_dang_van_ban.html" />
+        <option value="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html" />
+        <option value="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.css" />
+        <option value="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.html" />
+        <option value="$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_Xem_Phim_Hoat_Hinh/Web_Xem_Phim_Hoat_Hinh.html" />
+        <option value="$PROJECT_DIR$/SS8.Bootstrap_co_ban/gallery/gallery.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="150" />
@@ -42,6 +309,32 @@
               <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="SS8.Bootstrap_co_ban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="SS8.Bootstrap_co_ban" type="462c0819:PsiDirectoryNode" />
+              <item name="Landing_Page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="SS8.Bootstrap_co_ban" type="462c0819:PsiDirectoryNode" />
+              <item name="Landing_Page" type="462c0819:PsiDirectoryNode" />
+              <item name="shapely" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module3" type="462c0819:PsiDirectoryNode" />
+              <item name="SS8.Bootstrap_co_ban" type="462c0819:PsiDirectoryNode" />
+              <item name="Landing_Page" type="462c0819:PsiDirectoryNode" />
+              <item name="shapely" type="462c0819:PsiDirectoryNode" />
+              <item name="template-parts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -50,14 +343,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Module2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584542218375" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\CodeGym\Training\TrainingAllModule\Truong_Tan_Hai\Module3\SS9.Tong_quan_ung_dung_Web" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,28 +383,28 @@
       <option name="presentableId" value="Default" />
       <updated>1584328032562</updated>
       <workItem from="1584328035055" duration="895000" />
+      <workItem from="1584366440154" duration="1006000" />
+      <workItem from="1584371124435" duration="422000" />
+      <workItem from="1584406628545" duration="4441000" />
+      <workItem from="1584431852992" duration="146000" />
+      <workItem from="1584432006899" duration="79000" />
+      <workItem from="1584536581150" duration="3081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="895000" />
+    <option name="totallyTimeSpent" value="10070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27611336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -111,19 +412,130 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SS9.Tong_quan_ung_dung_Web/Product_Discount_Calculator/src/DiscountServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS9.Tong_quan_ung_dung_Web/Product_Discount_Calculator/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_CSS_vao_trang_HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Dinh_dang_van_ban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Tao_layout_voi_cac_the_HTML5_va_CSS/Tao_layout_voi_cac_the_HTML5_va_CSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5220">
+          <caret line="261" column="16" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS6._CSS_Cascading_Style_Stylesheet/Nhung_Css_va_trang_HTML.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/HomeFaceBook/facebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/license &amp; credits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/inner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_doc_truyen/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS7.Thiet_ke_bo_cuc_trang_web/Web_Xem_Phim_Hoat_Hinh/Web_Xem_Phim_Hoat_Hinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="128" column="32" selection-start-line="128" selection-start-column="32" selection-end-line="128" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS8.Bootstrap_co_ban/Landing_Page/Shop Surface Pro Tablets, Surface Laptop, and Surface Book.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SS8.Bootstrap_co_ban/gallery/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -1,8 +1,11 @@
 package com.codegym.model;
 
+import org.aspectj.lang.annotation.Aspect;
+
 import javax.persistence.*;
 
 @Entity
+
 @Table(name = "image")
 public class Image {
     @Id

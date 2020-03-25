@@ -1,6 +1,7 @@
 package com.codegym;
 
 
+import com.codegym.model.Image;
 import com.codegym.repository.ImageRepository;
 import com.codegym.service.ImageService;
 import com.codegym.service.ImageServiceImpl;
@@ -11,6 +12,7 @@ import org.springframework.context.ApplicationContextAware;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.JpaVendorAdapter;
@@ -33,6 +35,7 @@ import java.util.Properties;
 
 @Configuration
 @EnableWebMvc
+@EnableAspectJAutoProxy
 @EnableTransactionManagement
 @ComponentScan("com.codegym")
 public class ApplicationConfig extends WebMvcConfigurerAdapter implements ApplicationContextAware {
@@ -42,11 +45,6 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
         this.applicationContext = applicationContext;
-    }
-
-    @Bean
-    public ImageRepository imageRepository(){
-        return new ImageRepositoryImpl();
     }
 
     @Bean
@@ -72,7 +70,10 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
         templateEngine.setTemplateResolver(templateResolver());
         return templateEngine;
     }
-
+    @Bean
+    public Image image() {
+        return new Image();
+    }
     @Bean
     public ThymeleafViewResolver viewResolver(){
         ThymeleafViewResolver viewResolver = new ThymeleafViewResolver();
@@ -119,7 +120,7 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
     @Bean
     Properties additionalProperties() {
         Properties properties = new Properties();
-        properties.setProperty("hibernate.hbm2ddl.auto", "none");
+        properties.setProperty("hibernate.hbm2ddl.auto", "create");
         properties.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQL5Dialect");
         return properties;
     }

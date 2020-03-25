@@ -11,9 +11,11 @@
     };
     request.send();
 </script>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
 <body>
 <br>
+<form action="#" th:action="@{/image}" th:object="${image}"
+      method="POST" novalidate="novalidate">
 <select>
     <option>1</option>
     <option>2</option>
@@ -22,10 +24,11 @@
     <option>5</option>
 </select>
 <br>
-Author: <input type="text">
+Author: <input type="text" th:field="*{author}">
 <br>
-Feedback: <textarea></textarea>
+Feedback: <textarea th:field="*{feedback}"></textarea>
 <br>
 <button type="submit" >Comment</button>
+</form>
 </body>
 </html>

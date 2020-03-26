@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bfb91d5-d756-4a58-8987-66ca909c7aba" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,9 +136,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+=======
       <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +162,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584542256076" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Demo/demo_module2/demo_crud_thymleaf" />
+=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Module4/SS1.Tong_quan_Spring_MVC" />
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -185,16 +209,28 @@
       <workItem from="1584432006899" duration="79000" />
       <workItem from="1584536581150" duration="3423000" />
       <workItem from="1584579533563" duration="1306000" />
+<<<<<<< HEAD
+      <workItem from="1585191234944" duration="44000" />
+=======
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="11762000" />
+=======
     <option name="totallyTimeSpent" value="11718000" />
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28582996" />
+=======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28097165" />
+>>>>>>> b0f4194645b5f2341ac0bd8d93d2bf5454206a81
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

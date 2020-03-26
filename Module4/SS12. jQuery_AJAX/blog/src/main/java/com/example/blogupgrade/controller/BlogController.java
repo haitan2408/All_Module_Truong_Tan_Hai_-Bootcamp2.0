@@ -1,18 +1,22 @@
 package com.example.blogupgrade.controller;
 
+import com.example.blogupgrade.model.AjaxResponseBody;
 import com.example.blogupgrade.model.Blog;
 import com.example.blogupgrade.model.Category;
+import com.example.blogupgrade.model.SearchCriteria;
 import com.example.blogupgrade.repository.BlogRepository;
 import com.example.blogupgrade.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.validation.Errors;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
+import javax.validation.Valid;
+import java.util.List;
 import java.util.Optional;
+import java.util.stream.Collectors;
 
 @Controller
 public class BlogController {
@@ -92,5 +96,33 @@ public class BlogController {
     public String deleteBlog(@ModelAttribute("blog") Blog blog) {
         blogRepository.deleteById(blog.getId());
         return "redirect:/";
+    }
+    @PostMapping("/api/search")
+    public ResponseEntity<?> getSearchResultViaAjax(
+            @Valid @RequestBody SearchCriteria search, Errors errors) {
+
+        AjaxResponseBody result = new AjaxResponseBody();
+
+        //If error, just return a 400 bad request, along with the error message
+        if (errors.hasErrors()) {
+
+            result.setMsg(errors.getAllErrors()
+                    .stream().map(x -> x.getDefaultMessage())
+                    .collect(Collectors.joining(",")));
+
+            return ResponseEntity.badRequest().body(result);
+
+        }
+
+        List<Blog> blogs = blogRepository.findAllByNameBlogContaining(search.getNameBlog());
+        if (blogs.isEmpty()) {
+            result.setMsg("no blog found!");
+        } else {
+            result.setMsg("success");
+        }
+        result.setResult(blogs);
+
+        return ResponseEntity.ok(result);
+
     }
 }

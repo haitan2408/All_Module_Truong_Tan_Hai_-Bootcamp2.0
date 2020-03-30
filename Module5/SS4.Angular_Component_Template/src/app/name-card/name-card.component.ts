@@ -1,0 +1,18 @@
+import { Component, OnInit, Input } from '@angular/core';
+
+@Component({
+  selector: 'app-name-card',
+  templateUrl: './name-card.component.html',
+  styleUrls: ['./name-card.component.scss']
+})
+export class NameCardComponent implements OnInit {
+
+  constructor() { }
+  @Input() cardName: String;
+  @Input() email: String;
+  @Input() phone: String;
+
+  ngOnInit() {
+  }
+
+}

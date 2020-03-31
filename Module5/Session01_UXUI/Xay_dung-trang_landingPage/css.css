@@ -1,0 +1,28 @@
+body{
+    background-color: black !important;
+    font-size: x-large;
+}
+
+
+
+
+div{
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.rightNav{
+    position: absolute;
+    right: 0;
+}
+
+button{
+    width: 45%;
+    height: auto;
+}
+
